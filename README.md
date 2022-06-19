@@ -4,9 +4,9 @@ Wrapper for quick and easy work with the [logrus](https://github.com/sirupsen/lo
 
  ## Install 
 
- ```
-	go get github.com/ret0rn/l0gger
- ```
+```
+go get github.com/ret0rn/l0gger
+```
 
 
  ## Formaters 
