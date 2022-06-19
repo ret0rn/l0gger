@@ -1,5 +1,5 @@
 # L0gger
-
+[![Build Status](https://app.travis-ci.com/ret0rn/l0gger.svg?branch=master)](https://app.travis-ci.com/ret0rn/l0gger)
 Wrapper for quick and easy work with the [logrus](https://github.com/sirupsen/logrus) package in golang
 
  ## Install 
