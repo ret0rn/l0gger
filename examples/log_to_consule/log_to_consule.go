@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	var log, err = l0gger.New(nil, l0gger.JsonFormater, l0gger.DebugLvl) // log to consule
+	var log, err = l0gger.New(nil, l0gger.JsonFormater, l0gger.DebugLvl) // log to console
 	// or
 	// var log, err = l0gger.New(os.Stdout, l0gger.JsonFormater, l0gger.DebugLvl)
 

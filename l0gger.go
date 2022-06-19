@@ -32,7 +32,7 @@ const (
 	FatalLvl   = logrus.FatalLevel
 )
 
-var ConsuleOut = os.Stdout
+var СonsoleOut = os.Stdout
 
 // New Logger
 func New(outType interface{}, formater logrus.Formatter, lvl logrus.Level) (*logrus.Logger, error) {
