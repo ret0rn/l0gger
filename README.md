@@ -4,7 +4,7 @@
 Wrapper for quick and easy work with the [logrus](https://github.com/sirupsen/logrus) package in golang
 
 
-![GitHub](https://img.shields.io/github/license/ret0rn/l0gger?style=plastic)
+[![GitHub](https://img.shields.io/github/license/ret0rn/l0gger?style=plastic)](https://github.com/ret0rn/l0gger/blob/master/LICENSE)
 
 
  ## Install 
