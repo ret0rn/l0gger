@@ -11,7 +11,6 @@ Wrapper for quick and easy work with the [logrus](https://github.com/sirupsen/lo
 
 
 
-
  ## Install 
 
 ```
