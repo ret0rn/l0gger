@@ -7,6 +7,7 @@ Wrapper for quick and easy work with the [logrus](https://github.com/sirupsen/lo
 [![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/ret0rn/l0gger)](https://github.com/ret0rn/l0gger/blob/master/go.mod)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/ret0rn/l0gger?style=plastic)](https://github.com/ret0rn/l0gger/releases)
 [![GitHub](https://img.shields.io/github/license/ret0rn/l0gger?style=plastic)](https://github.com/ret0rn/l0gger/blob/master/LICENSE)
+
 [![GitHub Repo stars](https://img.shields.io/github/stars/ret0rn/l0gger?style=social)](https://github.com/ret0rn/l0gger/stargazers)
 
 
