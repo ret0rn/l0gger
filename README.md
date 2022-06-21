@@ -1,5 +1,6 @@
-# L0gger 
+# L0gger <img src="https://i.imgur.com/70K5QJ2.png" width="40" height="40" alt="l0gger" class="emoji" title="l0gger"/>
 <!-- [![Build Status](https://app.travis-ci.com/ret0rn/l0gger.svg?branch=master)](https://app.travis-ci.com/ret0rn/l0gger) -->
+
 
 Wrapper for quick and easy work with the [logrus](https://github.com/sirupsen/logrus) package in golang
 
