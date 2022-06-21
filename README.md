@@ -1,7 +1,7 @@
 # L0gger
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/kDaWjYL.png">
-  <img src="https://i.imgur.com/3jcSnYp.png" width="73" height="88" alt="l0gger" title="l0gger"/> 
+  <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/3jcSnYp.png">
+  <img src="https://i.imgur.com/kDaWjYL.png" width="73" height="88" alt="l0gger" title="l0gger"/> 
 </picture>
 
 
