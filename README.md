@@ -1,7 +1,4 @@
-# L0gger <img src="https://i.imgur.com/70K5QJ2.png" width="50" height="50" alt="l0gger" class="emoji" title="l0gger"/> [![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/ret0rn/l0gger?style=plastic)](https://github.com/ret0rn/l0gger/blob/master/go.mod)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/ret0rn/l0gger?style=plastic)](https://github.com/ret0rn/l0gger/releases)
-[![GitHub Repo stars](https://img.shields.io/github/stars/ret0rn/l0gger?style=plastic)](https://github.com/ret0rn/l0gger/stargazers)
-[![GitHub](https://img.shields.io/github/license/ret0rn/l0gger?style=plastic)](https://github.com/ret0rn/l0gger/blob/master/LICENSE)
+# L0gger <img src="https://i.imgur.com/70K5QJ2.png" width="50" height="50" alt="l0gger" class="emoji" title="l0gger"/> [![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/ret0rn/l0gger?style=plastic)](https://github.com/ret0rn/l0gger/blob/master/go.mod) [![GitHub release (latest by date)](https://img.shields.io/github/v/release/ret0rn/l0gger?style=plastic)](https://github.com/ret0rn/l0gger/releases) [![GitHub Repo stars](https://img.shields.io/github/stars/ret0rn/l0gger?style=plastic)](https://github.com/ret0rn/l0gger/stargazers) [![GitHub](https://img.shields.io/github/license/ret0rn/l0gger?style=plastic)](https://github.com/ret0rn/l0gger/blob/master/LICENSE)
 
 
 Wrapper for quick and easy work with the [logrus](https://github.com/sirupsen/logrus) package in golang
