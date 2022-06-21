@@ -1,4 +1,4 @@
-# L0gger <img src="https://i.imgur.com/70K5QJ2.png" width="70" height="70" alt="l0gger" class="emoji" title="l0gger"/>
+# L0gger <img src="https://i.imgur.com/70K5QJ2.png" width="60" height="60" alt="l0gger" class="emoji" title="l0gger"/>
 <!-- [![Build Status](https://app.travis-ci.com/ret0rn/l0gger.svg?branch=master)](https://app.travis-ci.com/ret0rn/l0gger) -->
 
 
