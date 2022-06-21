@@ -30,6 +30,14 @@ go get github.com/ret0rn/l0gger
 - ```ErrorLvl```
 - ```FatalLvl ```
 
+|Log Level| Log Messages|
+|---------|-------------|
+|DEBUG 	 | DEBUG, INFO, WARNING, ERROR, FATAL|
+|INFO 	 | 	  INFO, WARNING, ERROR, FATAL|
+|WARNING | 		WARNING, ERROR, FATAL|
+|ERROR 	 | 			 ERROR, FATAL|
+|FATAL 	 |			 	FATAL|
+
 
 ## Log Out
 
